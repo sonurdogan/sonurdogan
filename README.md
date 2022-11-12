@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonurdogan
-- 👀 I’m interested in AI algorithms.
+- 👀 I’m interested in Application of ML, NLP, HCI, Robotics.
 - 📫 How to reach me on sonur.dogan4@gmail.com
 
 <!---
