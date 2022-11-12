@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonurdogan
-- 👀 I’m interested in Application of ML, Data science, NLP, HCI, Robotics.
+- 👀 I’m interested in Applications of ML, Data science, NLP, HCI, Robotics.
 - 📫 How to reach me on sonur.dogan4@gmail.com
 
 <!---
