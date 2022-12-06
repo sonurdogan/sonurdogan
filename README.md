@@ -1,7 +1,6 @@
 Hi, I’m Onur 👋
 - 🔭 I’m interested in Applications of ML on complex systems, NLP, HCI, Robotics.
 - 📫 You can reach me at sonur.dogan4@gmail.com
-- 👨🏼‍💻 sonurdogan.github.io
 
 
 <!---
