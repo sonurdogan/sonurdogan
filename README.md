@@ -1,5 +1,5 @@
 Hi, I’m Onur 👋
-- 🔭 I’m interested in Applications of ML in complex systems such as security, neuroscience. NLP, Information Theory, HCI, Robotics.
+- 🔭 I’m interested in applications of ML NLP, Information Theory, HCI.
 - 📫 You can reach me at sonur.dogan4@gmail.com
 
 
