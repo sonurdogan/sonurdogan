@@ -1,5 +1,5 @@
 Hi, I’m Onur 👋
-- 🔭 I’m interested in applications of ML NLP, Information Theory, HCI.
+- 🔭 I’m interested in applications of ML NLP, Information Theory, Causality.
 - 📫 You can reach me at sonur.dogan4@gmail.com
 
 
